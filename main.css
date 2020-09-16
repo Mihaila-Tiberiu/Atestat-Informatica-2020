@@ -1,0 +1,120 @@
+body{
+	width:100%;
+	background-color:Wheat ;
+	color:DarkSlateGrey;
+	font-family:helvetica;
+	font-size:150%;
+	overflow-x: hidden;
+	margin-left:-0.15%;
+}
+
+.eroare{
+	color:FireBrick;
+}
+
+.succees{
+	color:Olive;
+}
+
+header{
+		background-color:burlywood;
+		width:100%;
+		text-align:center;
+		line-height:400%;
+		margin-bottom:5%;
+		border-bottom: solid DarkSlateGrey;
+		border-top: solid DarkSlateGrey;
+}
+
+.divleft{
+	float:left;
+	width:50%;
+}
+
+.divright{
+	float:right;
+}
+
+.center{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table{
+	border-collapse:collapse;
+	border: solid DarkSlateGrey;
+}
+
+tr{
+	border: solid DarkSlateGrey;
+}
+
+th{
+	background-color:lightgrey;
+	border: solid DarkSlateGrey;
+}
+
+td{
+	background-color:burlywood;
+	border: solid DarkSlateGrey;
+}
+
+a:visited{
+	color:DarkSlateGrey !important; 
+	text-decoration:none !important;
+}
+
+a:link{
+	color:DarkSlateGrey !important; 
+	text-decoration:none !important;
+}
+
+a:active{
+	color:orange !important; 
+	text-decoration:none !important;
+}
+
+a:hover{
+	color:orange !important; 
+	text-decoration:none !important;
+}
+
+.mainpageimg{
+	max-width: 20%;
+	max-height:300px;
+}
+
+.lightblueline{
+	background-color:Sienna;
+	border: solid DarkSlateGrey;
+	padding-bottom:5%;
+}
+
+.behind{
+	position:relative;
+	vertical-align: middle;
+	left:35%;
+	font-size:300%;
+}
+
+.tabelprezentare{
+	max-width:100%;
+	max-height:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
